@@ -12,10 +12,9 @@ This is my first COW mod!
 
 ## Project information
 
-- **Mod ID:** `{{MOD_ID}}`
-- **Version:** `0.1.0`
+- **Version:** 0.1.0
 - **Authors:** Slothsoft
-- **Minimum game version:** `{{GAME_VERSION_MIN}}`
+- **Source:** https://github.com/community-owned-workshop/scrap-mechanic-template
 - **Steam Workshop:** [1](https://steamcommunity.com/sharedfiles/filedetails/?id=1)
 
 
